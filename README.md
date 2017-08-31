@@ -16,4 +16,4 @@ You can select the custom maps inside the game lobby:
 http://postimg.org/image/vhndigrix/
 
 These are the maps that I have worked on and edited.
-Licesed with GNU.
+Licensed with GNU.
