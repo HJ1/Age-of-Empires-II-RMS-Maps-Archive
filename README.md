@@ -14,3 +14,6 @@ AoC HD edition(Steam): Transfer the .rms to "C:\Program Files\Steam\SteamApps\co
 
 You can select the custom maps inside the game lobby:
 http://postimg.org/image/vhndigrix/
+
+These are the maps that I have worked on and edited.
+Licesed with GNU.
