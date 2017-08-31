@@ -5,7 +5,7 @@ Installation:
 
 Put the RMS (Random Map Scripts) inside your game folder.
 
-AoC (Age of Conqueror): Transfer the .rms to "C:\Program Files\Microsoft Games\Age of Empires II\Random" folder.
+AoC (Age of The Conquerors): Transfer the .rms to "C:\Program Files\Microsoft Games\Age of Empires II\Random" folder.
 It should now appear in the game lobby under "Custom" Map Style.
 
 AoFE (Age of Forgotten Empires Expansion): Transfer the .rms to "C:\Program Files\Microsoft Games\Age of Empires II\Games\Forgotten Empires\Script.RM" folder. It should now appear in the game lobby under "Custom" Map Style.
